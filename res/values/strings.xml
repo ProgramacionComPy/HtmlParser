@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HtmlParser</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"><b>Traer el título y el texto alternativo de la imagen de Google.com: </b></string>
+    <string name="title"><b>Título: </b></string>
+    <string name="desc"><b>Texto alternativo: </b></string>
+
+</resources>
